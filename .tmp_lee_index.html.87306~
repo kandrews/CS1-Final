@@ -1,0 +1,67 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head> 
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+	<meta http-equiv="X-UA-Compatible" content="IE=8" /> 
+	<meta content="keywords" /> 
+	<meta content="description" /> 
+
+	<title>Cannery Village Realty Inc.</title> 
+ 
+	<link rel="stylesheet" href="realty.css" type="text/css"/> 
+	
+	
+	</head>
+<body> 
+	<div id="container">
+	  <div id= "palm"> 
+		<div id="content"> 
+			<div id="logo">&nbsp;</div> 
+				<ul id="menuList">
+					<li class="extra"><a title="Home Page" href="index.html" >HOME</a></li> 
+ 					
+					<li><a title="About Us Page" href="about.html" >ABOUT</a></li> 
+ 
+					<li><a title="Our Services Page" href="services.html" >SERVICES</a></li> 
+ 
+					<li><a title="Portfolio" href="portfolio.html" id="current">PHOTOS</a></li> 
+ 
+					<li><a title="Sample Page" href="">SAMPLE PAGE</a></li> 
+ 
+					<li><a title="Contact Us Page" href="contact.html" >CONTACT</a></li> 
+ 
+				</ul> 
+				
+	<div class="cb"> </div> 
+
+<div id="info"> 
+	<p class = "text">Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text</p>
+	
+	<img src= "photo.jpg" height= "260" width= "290"/>
+	<div class="cb"> </div> 
+	
+	
+ 
+</div> 
+ 
+
+<ul id="footerList"><li><p>JOHN SMITH</p></li><li class="extend"><a title="Email JOHN" href="mailto:john@yahoo.com">JOHN@YAHOO.COM</a></li><li><p>123-456-7890</p></li></ul> 
+
+<div class="cb"></div> 
+
+<div id="ka"><a href="http://www.katieandrewsdesign.com">designed by Katie Andrews </a></div> 
+</div> 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+</div>
+</div> 
+</body>
+</html>

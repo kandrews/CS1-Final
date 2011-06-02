@@ -1,0 +1,162 @@
+html{
+	background-color: #2e2e2e;
+}
+
+#container{
+	margin-top: 30px;
+	margin-left: 120px;
+}
+#content{
+	background-color: #424242;
+	height: 500px auto;
+	width: 910px;
+	padding: 20px;
+	padding-top: 10px;
+	
+}
+
+h1{
+	font-family: Georgia;
+	padding: 0px;
+	line-height: 10px;
+	color: #e8e8e8;
+	
+}
+
+h5{
+	padding: 0px;
+	line-height: 10px;
+	color: #FF4040;
+	
+}
+
+h6{
+	padding: 0px;
+	
+}
+#ka {
+	font-size:10px;
+	padding: 0px;
+	width: 1110px;
+	text-align: left;
+}
+
+#ka a {
+	text-decoration: none; 
+	color:#d4d4d4; 
+	display:block; 
+	
+}
+p {
+	padding: 0px;
+	color: #e1e1e1;
+}
+
+p.caption{
+	padding: 0px;
+	color: #e8e8e8;
+	font-family: Helvetica sans-serif;
+	font-size:11px;
+	
+}
+
+#float_right{
+	float: right;
+}
+
+#float_left{
+	float: left;
+}
+#nav{
+	list-style-type:none;
+	color: #c8c8c8;
+	margin:0px auto;
+	padding:0px;
+	font-size:11px;
+	line-height:14pt;
+	text-align:left;
+	font-family: Helvetica sans-serif;
+	width: 10%;
+	float: left;
+}
+
+#nav li {
+	border-top:#e9e9e9 solid 1px;
+	border-bottom:#e9e9e9 solid 1px;
+}
+
+#nav ul {
+	display: block;
+	color: #c8c8c8;
+	padding:9px 0px;
+	text-align:center;
+	text-decoration:none;
+	font-size:12px;
+	list-style-type: none;
+}
+
+#nav a{
+	display: block;
+	color: #c8c8c8;
+	padding:9px 0px;
+	text-align:center;
+	text-decoration:none;
+	font-size:12px;
+	list-style-type: none;
+}
+
+#nav a:hover { 
+	text-decoration: underline; 
+}
+
+#nav a#current { 
+	text-decoration: underline; 
+}
+
+a.index{
+	color: #c8c8c8;
+	padding:9px 0px;
+	text-align:center;
+	text-decoration:none;
+	font-size:20px;
+	list-style-type: none;
+}
+
+a:hover.index{
+	color: #c8c8c8;
+	padding:9px 0px;
+	text-align:center;
+	text-decoration: underline;
+	font-size:20px;
+	list-style-type: none;
+}
+
+a.friends {
+	color: #357f8f;
+	padding: 9px 0px;
+	text-align:center;
+	line-height: 10px;
+	text-decoration:none;
+	font-size:24px;
+	list-style-type: none;
+}
+
+a:hover.friends{
+	color: #357f8f;
+	padding: 9px 0px;
+	text-align:center;
+	line-height: 10px;
+	text-decoration: underline;
+	font-size:24px;
+	list-style-type: none;
+}
+.cb { 
+	clear: both; 
+}
+
+#main {
+	width: 85%;
+	float: right;
+}
+
+
