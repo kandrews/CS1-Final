@@ -3,10 +3,6 @@
 	include('../includes/template.php');
 	renderHeader("Friends","");
 	
-	$name = $_POST['name'];
-	$description = $_POST['description'];
-	$url = $_POST['url'];
-	
 	$query = "SELECT * FROM friends";
 	
  	$results = mysql_query($query) or die("query fail");
